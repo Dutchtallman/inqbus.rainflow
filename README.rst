@@ -26,6 +26,6 @@ Examples and Usage
 There are examples included in
 inqbus.rainflow/src/inqbus/rainflow/examples
 
-The main mehtods are located and described in
-inqbus.rainflow/src/inqbus/rainflow/run_rainflow
+The main methods are located and described in
+``inqbus.rainflow/src/inqbus/rainflow/run_rainflow``
 
