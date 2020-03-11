@@ -16,7 +16,7 @@ Requirements:
 * cython
 * numexpr
 
-Or use the pypi-package and install it via pip.
+Or use the pypi-package and install it via pip::
 
     pip install inqbus.rainflow
 
